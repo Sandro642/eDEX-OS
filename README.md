@@ -1,2 +1,5 @@
-# eDEX-OS
-A cross-platform, customizable science fiction terminal with advanced monitoring &amp; touchscreen support.
+<h1 align="center">eDEX-OS</h1>
+
+<br/>
+
+<h2 align="center">The cutting-edge, futuristic revolution of eDEX-OS.</h2>
